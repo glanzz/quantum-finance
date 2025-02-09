@@ -1,3 +1,3 @@
 ## Finance Algorithms
 
-Implementation of quantum finance algorithms in qiskit
+Implementation of Quantum Algorithms for Finance in qiskit
